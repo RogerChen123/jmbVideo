@@ -1,0 +1,23 @@
+{
+  "name": "jmb_video",
+  "version": "1.0.0",
+  "description": "this is a h5 video project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerChen123/jmbVideo.git"
+  },
+  "keywords": [
+    "h5",
+    "video"
+  ],
+  "author": "chenyilong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogerChen123/jmbVideo/issues"
+  },
+  "homepage": "https://github.com/RogerChen123/jmbVideo#readme"
+}
